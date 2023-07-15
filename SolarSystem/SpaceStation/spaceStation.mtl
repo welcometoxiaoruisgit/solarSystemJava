@@ -1,0 +1,172 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl dockbluelightmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockbluelight.jpg
+map_Ke SpaceDockNar30974/dockbluelight.jpg
+
+newmtl dockgreenlightmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockgreenlight.jpg
+map_Ke SpaceDockNar30974/dockgreenlight.jpg
+
+newmtl dockmainmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockmaintexture2.jpg
+
+newmtl dockmainmat_NONE
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl dockmainmat_dockbrown1.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockbrown1.jpg
+
+newmtl dockmainmat_dockbrown2.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockbrown2.jpg
+
+newmtl dockmainmat_dockbrown3.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockbrown3.jpg
+
+newmtl dockmainmat_dockbrown4.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockbrown4.jpg
+
+newmtl dockmainmat_dockmaintexture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockmaintexture.jpg
+
+newmtl dockmainmat_dockmaintexture1.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockmaintexture1.jpg
+
+newmtl dockmainmat_dockmaintexture3.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockmaintexture3.jpg
+
+newmtl dockmainmat_dockname.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockname.jpg
+
+newmtl dockorangemat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 1.600000 1.600000 1.600000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockorange.jpg
+
+newmtl dockorangemat_dockbrown4.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 1.600000 1.600000 1.600000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockbrown4.jpg
+
+newmtl dockredlightmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockredlight.jpg
+map_Ke SpaceDockNar30974/dockredlight.jpg
+
+newmtl dockwhitemat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockwhite.jpg
+map_Ke SpaceDockNar30974/dockwhite.jpg
+
+newmtl dockwhitemat_dockmaintexture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SpaceDockNar30974/dockmaintexture.jpg
+map_Ke SpaceDockNar30974/dockwhite.jpg
